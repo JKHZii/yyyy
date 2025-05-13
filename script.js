@@ -34,7 +34,7 @@ for (let i = 0; i < 20; i++) {
 setInterval(createFlower, 300);
 
 // Efecto máquina de escribir
-const text = "QUE ERES LA MEJOR";
+const text = "ERES LA MEJOR";
 const animatedText = document.getElementById('animatedText');
 let i = 0;
 
